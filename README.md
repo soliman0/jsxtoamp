@@ -2,6 +2,8 @@
 
 将ReactJSX文件转换成为支付宝小程序文件
 
+Transforms single React JSX file intro Alipay Mini Program files
+
 # Prerequisites|预装
 
 Node: any 12.x version starting with v12.0.0 or greater
