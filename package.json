@@ -1,0 +1,19 @@
+{
+  "name": "jsx2axml",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ast.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/generator": "^7.9.5",
+    "@babel/parser": "^7.9.4",
+    "@babel/traverse": "^7.9.5",
+    "babel": "^6.23.0",
+    "commander": "^5.0.0"
+  }
+}
