@@ -19,12 +19,15 @@ Node: any 12.x version starting with v12.0.0 or greater
 # In-working-progress|功能缺陷
 
 not support components in react, will be brought into mini program as is
+
 不支持JSX中的引入模版或者自定义模版
 
 not support import or require automation, will need to be handled manually
+
 不支持自动化管理第三方lib的引入,需要手动处理
 
 may exists other unknown malfunctions, please leave a msg
+
 可能存在其它未知缺陷,初心项目,请多多支持
 
 
