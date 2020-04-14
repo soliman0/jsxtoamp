@@ -30,7 +30,7 @@ not support import or require automation, will need to be handled manually
 
 may exists other unknown malfunctions, please leave a msg
 
-可能存在其它未知缺陷,初心项目,请多多支持
+可能存在其它未知缺陷,请多多支持
 
 
 
